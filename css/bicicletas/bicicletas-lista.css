@@ -37,7 +37,7 @@
 }
 
 .bicicletas-lista h3::before {
-  content: "";
+  content: '';
   display: inline-block;
   height: 8px;
   width: 12px;
@@ -53,7 +53,7 @@
 .bicicletas-lista li span {
   padding-left: 20px;
 }
-
+/*Responsivo*/
 @media (max-width: 800px) {
   .bicicletas-lista {
     padding-bottom: 60px;
