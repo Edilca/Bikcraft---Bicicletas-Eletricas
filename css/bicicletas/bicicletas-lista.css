@@ -41,7 +41,7 @@
 }
 
 .bicicletas-lista h3::before {
-  content: '';
+  content: "";
   display: inline-block;
   height: 8px;
   width: 12px;

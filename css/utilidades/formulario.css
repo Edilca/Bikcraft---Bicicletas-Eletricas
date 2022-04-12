@@ -25,6 +25,9 @@
   width: 100%;
   box-sizing: border-box;
 }
+textarea {
+  resize: none;
+}
 
 .form input[type='text']:focus,
 .form input[type='email']:focus,
