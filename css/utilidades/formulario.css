@@ -13,7 +13,9 @@
 .form .col-2 {
   grid-column: span 2;
 }
-
+.form textarea {
+  resize: none;
+}
 .form input[type='text'],
 .form input[type='email'],
 .form textarea {
